@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bec38a915da0e441b78a2d754073665, type: 3}
+  m_Name: prymary_base_turret_01
+  m_EditorClassIdentifier: 
+  m_Mode: 0
+  m_ProjectilePrefab: {fileID: 7365410324256598928, guid: f6e92bf35ec29964594cec136b532b40, type: 3}
+  m_ShockMoveAsteroid: {fileID: 0}
+  m_RateOfFire: 0.2
+  m_EnergyUsage: 1
+  m_AmmoUsage: 0
+  m_ShockUsage: 0
+  m_LaunchSFX: {fileID: 8300000, guid: 0a29e6fced9fe804c8e8c783cfb932d3, type: 3}
